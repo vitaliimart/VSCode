@@ -1,0 +1,14 @@
+header {
+  background: rgba(0, 0, 0, 0.548);
+}
+
+body {
+  margin: 10px 20px;
+  padding: 35px 50px;
+  font-size: 20px;
+  color: red;
+}
+
+body .second {
+  color: green;
+}
